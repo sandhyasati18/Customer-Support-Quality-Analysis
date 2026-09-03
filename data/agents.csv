@@ -1,0 +1,26 @@
+agent_id,agent_name,team_lead,team,location
+A001,Ishita Patel,Aman Verma,Email Support,Gurugram
+A002,Gaurav Khan,Aman Verma,Email Support,Noida
+A003,Kabir Verma,Aman Verma,Email Support,Gurugram
+A004,Arjun Agarwal,Aman Verma,Email Support,Bengaluru
+A005,Aditi Verma,Aman Verma,Email Support,Gurugram
+A006,Divya Shah,Kritika Shah,Voice Support,Gurugram
+A007,Kavya Patel,Kritika Shah,Voice Support,Noida
+A008,Ananya Mishra,Kritika Shah,Voice Support,Hyderabad
+A009,Divya Mehta,Kritika Shah,Voice Support,Gurugram
+A010,Ananya Gupta,Kritika Shah,Voice Support,Gurugram
+A011,Shreya Singh,Nitin Gupta,Chat Support,Noida
+A012,Ankit Khan,Nitin Gupta,Chat Support,Bengaluru
+A013,Ananya Jain,Nitin Gupta,Chat Support,Hyderabad
+A014,Ananya Jain,Nitin Gupta,Chat Support,Bengaluru
+A015,Neha Jain,Nitin Gupta,Chat Support,Bengaluru
+A016,Pooja Bansal,Pallavi Rao,Escalations,Hyderabad
+A017,Varun Mehta,Pallavi Rao,Escalations,Gurugram
+A018,Rahul Verma,Pallavi Rao,Escalations,Hyderabad
+A019,Sneha Joshi,Pallavi Rao,Escalations,Hyderabad
+A020,Aditi Bansal,Pallavi Rao,Escalations,Noida
+A021,Nikhil Bansal,Vivek Jain,Seller Support,Bengaluru
+A022,Varun Sharma,Vivek Jain,Seller Support,Noida
+A023,Ishita Verma,Vivek Jain,Seller Support,Noida
+A024,Rohan Verma,Vivek Jain,Seller Support,Noida
+A025,Arjun Nair,Vivek Jain,Seller Support,Noida

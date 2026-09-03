@@ -1,0 +1,501 @@
+ticket_id,created_date,agent_id,channel,issue_type,priority,resolution_hours,first_response_minutes,csat_score,qa_score,status,reopened,escalated
+T00001,2025-01-09,A001,Call,Delivery Delay,High,20.4,1,2,86.1,Closed,No,No
+T00002,2025-12-08,A003,Call,Refund,High,2.8,36,4,91.2,Closed,No,No
+T00003,2025-03-18,A009,Chat,Delivery Delay,Low,54.6,35,5,78.2,Closed,No,No
+T00004,2025-08-30,A001,Chat,Refund,Medium,19.6,34,4,92.2,Closed,No,No
+T00005,2025-01-05,A016,Chat,Order Cancellation,Low,58.0,23,3,80.0,Closed,No,No
+T00006,2025-07-25,A011,Email,Refund,Low,5.5,47,3,78.5,Closed,No,No
+T00007,2025-05-24,A013,Chat,Account Issue,Critical,3.5,1,5,72.8,Closed,No,No
+T00008,2025-12-28,A007,Chat,Account Issue,Medium,22.1,51,2,83.1,Closed,No,No
+T00009,2025-10-15,A021,Email,Delivery Delay,Medium,8.1,27,3,98.6,Closed,Yes,No
+T00010,2025-12-14,A020,Chat,Delivery Delay,Medium,0.5,6,2,72.0,Closed,Yes,No
+T00011,2025-01-25,A005,Call,Order Cancellation,Medium,26.7,20,5,88.4,Closed,No,No
+T00012,2025-05-14,A024,Email,Account Issue,High,3.4,46,5,81.6,Closed,No,No
+T00013,2025-02-06,A013,Chat,Order Cancellation,Low,12.6,41,4,86.9,Closed,No,No
+T00014,2025-10-13,A021,Email,Refund,High,5.1,15,5,88.1,Closed,No,No
+T00015,2025-09-15,A015,Email,Payment Failure,Medium,21.3,26,3,82.5,Closed,No,No
+T00016,2025-09-10,A010,Chat,Product Quality,Low,51.6,57,5,82.8,Closed,No,No
+T00017,2025-08-10,A013,Call,Product Quality,Medium,7.4,20,5,96.3,Closed,No,No
+T00018,2025-07-18,A022,Chat,Delivery Delay,High,3.0,1,1,91.7,Closed,No,No
+T00019,2025-10-23,A005,Call,Delivery Delay,Low,11.4,80,5,80.0,Closed,No,No
+T00020,2025-09-10,A011,Email,Order Cancellation,Medium,7.5,14,5,100,Closed,No,No
+T00021,2025-01-13,A014,Call,Delivery Delay,Medium,32.0,53,4,87.5,Closed,No,No
+T00022,2025-01-16,A008,Chat,Order Cancellation,Low,73.6,25,4,93.0,Closed,No,No
+T00023,2025-01-17,A024,Chat,Account Issue,Medium,26.9,1,4,85.0,Closed,No,No
+T00024,2025-02-14,A024,Email,Order Cancellation,Medium,13.0,25,5,92.5,Closed,No,No
+T00025,2025-07-30,A016,Email,Order Cancellation,Medium,25.1,44,5,82.3,Closed,No,No
+T00026,2025-06-11,A001,Email,Delivery Delay,Low,27.3,40,5,83.7,Closed,No,No
+T00027,2025-04-16,A021,Email,Product Quality,Medium,14.5,21,3,75.8,Open,No,No
+T00028,2025-11-01,A006,Call,Payment Failure,Medium,9.5,46,5,93.3,Closed,Yes,No
+T00029,2025-09-09,A005,Email,Product Quality,Low,30.1,40,5,82.5,Closed,No,No
+T00030,2025-04-04,A012,Chat,Payment Failure,Low,89.6,50,4,94.8,Open,No,No
+T00031,2025-01-08,A022,Call,Order Cancellation,Low,37.5,51,5,85.8,Closed,No,No
+T00032,2025-12-10,A004,Email,Delivery Delay,Low,59.0,29,5,72.4,Closed,No,No
+T00033,2025-06-23,A017,Chat,Delivery Delay,High,11.3,46,5,94.3,Closed,No,Yes
+T00034,2025-03-12,A003,Chat,Payment Failure,Low,24.1,49,3,90.1,Closed,No,No
+T00035,2025-11-05,A014,Call,Delivery Delay,High,11.1,50,5,75.9,Closed,Yes,Yes
+T00036,2025-10-09,A005,Call,Payment Failure,Low,59.6,61,4,75.8,Closed,No,No
+T00037,2025-08-20,A017,Call,Order Cancellation,Medium,30.4,25,5,93.5,Closed,No,No
+T00038,2025-08-21,A004,Call,Payment Failure,High,12.3,5,4,90.8,Open,No,No
+T00039,2025-01-30,A001,Email,Product Quality,Medium,28.3,1,5,87.5,Closed,No,No
+T00040,2025-06-12,A021,Call,Product Quality,High,7.7,21,5,87.9,Closed,No,Yes
+T00041,2025-09-14,A010,Call,Order Cancellation,Medium,16.1,23,5,75.5,Closed,No,No
+T00042,2025-11-25,A013,Email,Account Issue,High,16.0,16,1,75.9,Closed,No,No
+T00043,2025-06-05,A022,Chat,Payment Failure,Low,66.0,38,5,91.4,Closed,No,No
+T00044,2025-07-25,A020,Call,Delivery Delay,High,6.0,22,4,75.3,Closed,No,No
+T00045,2025-02-17,A002,Call,Product Quality,High,8.5,38,5,84.7,Closed,No,No
+T00046,2025-03-10,A017,Chat,Order Cancellation,Medium,31.7,42,5,81.2,Closed,No,No
+T00047,2025-08-05,A023,Email,Refund,Low,39.8,26,5,81.5,Closed,No,No
+T00048,2025-11-23,A016,Email,Delivery Delay,High,8.7,2,5,93.4,Closed,No,No
+T00049,2025-01-20,A003,Chat,Product Quality,Medium,24.3,50,5,98.2,Closed,No,No
+T00050,2025-01-05,A016,Email,Payment Failure,Medium,26.1,39,4,89.0,Closed,No,No
+T00051,2025-12-25,A011,Email,Product Quality,Low,38.2,1,3,100,Closed,No,No
+T00052,2025-02-16,A002,Chat,Account Issue,Medium,19.6,42,4,100,Closed,No,No
+T00053,2025-03-19,A020,Email,Delivery Delay,Low,65.4,31,2,80.5,Closed,No,No
+T00054,2025-08-06,A025,Chat,Delivery Delay,Low,36.8,6,2,100,Closed,No,No
+T00055,2025-12-19,A002,Call,Account Issue,Medium,24.3,6,5,82.3,Closed,No,No
+T00056,2025-07-01,A006,Call,Payment Failure,Low,57.6,45,4,82.5,Closed,No,No
+T00057,2025-09-08,A007,Email,Delivery Delay,Low,36.4,92,1,81.8,Closed,No,No
+T00058,2025-08-25,A017,Email,Order Cancellation,Low,34.8,22,4,87.3,Closed,No,No
+T00059,2025-12-09,A015,Call,Product Quality,High,3.2,17,4,89.4,Closed,No,No
+T00060,2025-10-22,A008,Email,Account Issue,Medium,29.1,63,2,79.7,Closed,No,No
+T00061,2025-11-22,A015,Email,Product Quality,Medium,25.2,44,1,92.8,Closed,No,No
+T00062,2025-06-19,A019,Email,Delivery Delay,Low,77.7,22,3,94.0,Closed,No,No
+T00063,2025-10-24,A014,Call,Delivery Delay,Medium,23.4,19,4,70.0,Closed,No,No
+T00064,2025-04-13,A002,Email,Product Quality,High,6.4,11,2,88.8,Closed,Yes,No
+T00065,2025-03-24,A013,Chat,Refund,Low,17.8,33,4,90.5,Closed,No,No
+T00066,2025-11-07,A014,Call,Order Cancellation,Critical,5.5,10,5,97.7,Closed,No,No
+T00067,2025-06-01,A022,Chat,Order Cancellation,Critical,2.9,43,5,95.8,Open,No,Yes
+T00068,2025-09-09,A019,Call,Payment Failure,Medium,30.1,11,4,73.5,Closed,No,No
+T00069,2025-03-15,A014,Chat,Refund,Low,32.6,30,4,83.2,Closed,No,No
+T00070,2025-10-02,A002,Call,Account Issue,Medium,15.9,34,4,92.7,Closed,Yes,No
+T00071,2025-08-22,A009,Call,Account Issue,Low,37.9,31,1,87.8,Closed,No,No
+T00072,2025-01-14,A008,Call,Account Issue,Low,47.3,47,5,78.9,Closed,No,No
+T00073,2025-03-31,A012,Chat,Order Cancellation,Low,24.1,33,5,79.2,Closed,No,No
+T00074,2025-02-28,A001,Email,Refund,High,1.4,1,4,90.4,Closed,No,No
+T00075,2025-07-11,A018,Chat,Delivery Delay,Medium,30.6,33,2,76.3,Open,No,No
+T00076,2025-09-08,A007,Email,Delivery Delay,High,0.5,18,5,86.4,Closed,No,No
+T00077,2025-03-28,A003,Email,Order Cancellation,Low,56.9,83,1,75.6,Closed,No,No
+T00078,2025-06-22,A001,Call,Product Quality,Medium,23.9,57,4,78.7,Closed,No,No
+T00079,2025-09-28,A003,Chat,Order Cancellation,Critical,3.0,39,5,100,Closed,No,No
+T00080,2025-05-02,A009,Chat,Product Quality,Medium,26.4,23,5,75.5,Closed,No,No
+T00081,2025-01-05,A019,Chat,Payment Failure,High,7.8,60,4,90.7,Closed,No,No
+T00082,2025-06-13,A012,Chat,Delivery Delay,Medium,23.0,48,2,93.5,Closed,No,No
+T00083,2025-07-20,A025,Email,Payment Failure,Medium,32.3,42,2,79.7,Closed,Yes,No
+T00084,2025-07-11,A012,Email,Refund,Low,51.7,60,3,86.2,Closed,No,No
+T00085,2025-07-25,A018,Chat,Product Quality,Medium,35.9,68,4,83.3,Closed,No,No
+T00086,2025-03-05,A010,Call,Product Quality,High,14.8,23,2,75.7,Closed,No,No
+T00087,2025-12-08,A018,Email,Delivery Delay,High,14.8,51,3,79.8,Closed,No,No
+T00088,2025-05-19,A001,Chat,Payment Failure,Low,22.9,35,4,75.5,Closed,No,Yes
+T00089,2025-09-23,A003,Call,Refund,Medium,15.4,55,4,93.7,Open,No,No
+T00090,2025-07-30,A016,Email,Payment Failure,High,17.5,24,4,89.7,Closed,No,No
+T00091,2025-09-14,A009,Chat,Product Quality,Medium,17.0,62,5,96.5,Closed,No,No
+T00092,2025-03-22,A013,Call,Product Quality,Low,24.1,45,4,89.3,Closed,Yes,No
+T00093,2025-11-13,A014,Chat,Order Cancellation,Medium,0.5,24,3,100,Closed,Yes,No
+T00094,2025-06-16,A005,Chat,Delivery Delay,High,9.9,1,4,84.8,Closed,No,No
+T00095,2025-07-18,A020,Call,Delivery Delay,High,3.4,42,2,93.5,Closed,No,No
+T00096,2025-03-28,A003,Call,Payment Failure,Medium,18.8,21,3,88.6,Closed,No,No
+T00097,2025-07-02,A024,Email,Payment Failure,Medium,40.7,4,3,100,Closed,No,No
+T00098,2025-05-10,A004,Call,Refund,Low,52.4,65,3,84.3,Closed,No,No
+T00099,2025-01-18,A018,Email,Refund,Medium,31.7,36,2,79.7,Closed,No,No
+T00100,2025-12-18,A015,Email,Product Quality,Low,62.7,14,1,93.1,Closed,No,No
+T00101,2025-05-15,A024,Chat,Payment Failure,High,0.5,19,5,83.1,Closed,No,Yes
+T00102,2025-06-01,A008,Call,Payment Failure,Medium,14.3,58,5,81.0,Closed,No,No
+T00103,2025-03-03,A020,Chat,Delivery Delay,Medium,19.6,42,4,89.8,Open,No,No
+T00104,2025-08-28,A024,Email,Delivery Delay,High,10.8,1,5,85.0,Open,Yes,No
+T00105,2025-10-24,A014,Call,Order Cancellation,Low,49.7,44,5,82.8,Closed,No,No
+T00106,2025-12-05,A023,Chat,Account Issue,Medium,7.7,41,5,90.6,Closed,No,No
+T00107,2025-06-25,A003,Email,Payment Failure,Medium,9.1,45,1,78.6,Closed,No,No
+T00108,2025-04-17,A001,Email,Product Quality,Low,13.7,36,2,88.5,Closed,No,No
+T00109,2025-08-07,A019,Chat,Order Cancellation,Low,31.2,39,5,81.1,Closed,No,No
+T00110,2025-05-15,A009,Chat,Refund,High,2.8,32,4,77.1,Closed,No,Yes
+T00111,2025-08-01,A002,Chat,Product Quality,Low,27.7,20,1,72.1,Closed,No,Yes
+T00112,2025-06-15,A002,Call,Payment Failure,Medium,26.1,60,3,70.5,Open,No,No
+T00113,2025-04-28,A023,Email,Order Cancellation,Medium,25.9,31,4,95.7,Closed,No,Yes
+T00114,2025-01-24,A017,Chat,Product Quality,Medium,35.8,24,5,65.9,Closed,No,No
+T00115,2025-11-10,A002,Email,Payment Failure,High,13.0,39,4,92.5,Closed,No,Yes
+T00116,2025-05-24,A019,Call,Order Cancellation,High,15.6,1,3,93.8,Closed,No,Yes
+T00117,2025-01-04,A009,Chat,Delivery Delay,Medium,15.3,64,4,85.9,Open,No,No
+T00118,2025-01-09,A025,Chat,Order Cancellation,Low,26.4,66,3,99.0,Closed,No,No
+T00119,2025-09-08,A020,Email,Product Quality,Low,27.7,62,4,78.7,Closed,No,No
+T00120,2025-10-23,A008,Email,Payment Failure,Medium,35.5,1,4,87.7,Closed,No,No
+T00121,2025-08-28,A025,Call,Payment Failure,Medium,14.0,41,4,81.1,Closed,No,No
+T00122,2025-11-30,A002,Chat,Refund,Medium,23.1,32,3,91.7,Open,No,No
+T00123,2025-02-15,A015,Chat,Refund,Medium,11.7,91,1,92.4,Closed,No,No
+T00124,2025-07-09,A014,Chat,Payment Failure,Low,50.6,67,4,94.2,Closed,No,Yes
+T00125,2025-08-17,A009,Email,Order Cancellation,Low,6.0,15,4,80.1,Closed,No,No
+T00126,2025-08-07,A004,Email,Payment Failure,Medium,21.3,31,4,91.4,Closed,No,No
+T00127,2025-05-11,A023,Chat,Refund,Medium,22.6,16,5,89.7,Closed,No,No
+T00128,2025-11-24,A024,Email,Product Quality,High,18.7,29,3,83.0,Closed,No,No
+T00129,2025-07-16,A003,Chat,Product Quality,Medium,19.8,11,2,91.2,Closed,No,No
+T00130,2025-01-14,A010,Email,Payment Failure,Low,20.4,37,4,93.1,Closed,No,No
+T00131,2025-08-05,A019,Call,Order Cancellation,Medium,33.4,5,2,94.0,Closed,No,No
+T00132,2025-10-26,A002,Email,Product Quality,Medium,21.2,33,4,89.0,Closed,No,No
+T00133,2025-07-14,A016,Email,Refund,Critical,4.6,13,3,95.3,Closed,No,No
+T00134,2025-07-28,A015,Call,Delivery Delay,Medium,16.8,36,5,95.4,Closed,No,No
+T00135,2025-07-13,A013,Chat,Refund,High,6.0,28,3,94.9,Closed,No,No
+T00136,2025-10-14,A002,Call,Product Quality,High,10.2,23,3,79.3,Closed,No,No
+T00137,2025-01-04,A003,Call,Account Issue,Low,74.2,32,5,80.3,Closed,No,No
+T00138,2025-12-30,A016,Call,Refund,Low,8.2,23,5,67.5,Closed,No,No
+T00139,2025-03-27,A016,Call,Product Quality,Low,49.9,48,5,92.7,Closed,No,No
+T00140,2025-11-26,A013,Email,Delivery Delay,Medium,22.7,9,3,86.5,Closed,No,No
+T00141,2025-07-18,A007,Call,Account Issue,Low,35.6,5,4,85.7,Closed,No,No
+T00142,2025-01-22,A002,Call,Account Issue,Medium,8.1,18,4,94.4,Closed,No,No
+T00143,2025-12-16,A001,Chat,Refund,Medium,11.8,22,4,95.3,Closed,Yes,No
+T00144,2025-02-15,A013,Call,Account Issue,Medium,3.4,28,4,85.8,Closed,No,No
+T00145,2025-11-28,A017,Email,Refund,Medium,30.3,47,5,81.3,Closed,No,No
+T00146,2025-04-13,A018,Chat,Payment Failure,Low,29.4,19,5,96.0,Closed,No,No
+T00147,2025-07-10,A003,Call,Refund,High,4.4,23,1,93.1,Open,No,Yes
+T00148,2025-04-01,A011,Call,Payment Failure,Low,48.9,23,5,89.2,Closed,No,No
+T00149,2025-01-27,A018,Chat,Order Cancellation,High,11.3,23,4,78.8,Closed,No,No
+T00150,2025-07-15,A005,Email,Product Quality,Medium,1.8,49,3,86.9,Closed,No,No
+T00151,2025-10-29,A023,Call,Payment Failure,Low,47.7,42,5,96.3,Closed,No,No
+T00152,2025-12-03,A024,Call,Account Issue,Medium,35.1,22,5,87.5,Closed,No,No
+T00153,2025-05-13,A024,Call,Account Issue,Medium,40.4,50,4,71.1,Closed,No,No
+T00154,2025-01-07,A015,Chat,Delivery Delay,High,0.5,1,5,90.2,Closed,No,Yes
+T00155,2025-04-02,A023,Email,Delivery Delay,High,11.2,1,3,96.7,Closed,Yes,No
+T00156,2025-07-24,A015,Email,Refund,Medium,13.7,16,5,80.3,Closed,No,Yes
+T00157,2025-09-26,A010,Chat,Refund,Medium,14.0,7,5,87.5,Closed,No,No
+T00158,2025-02-23,A016,Email,Account Issue,Medium,4.4,46,4,89.6,Closed,No,No
+T00159,2025-08-05,A003,Chat,Order Cancellation,Low,36.5,51,2,81.9,Closed,No,No
+T00160,2025-10-19,A009,Chat,Order Cancellation,Medium,39.2,5,4,85.8,Closed,No,No
+T00161,2025-03-11,A001,Chat,Delivery Delay,Medium,23.8,47,5,85.8,Closed,No,No
+T00162,2025-11-25,A025,Chat,Order Cancellation,Medium,18.4,40,3,81.8,Closed,No,No
+T00163,2025-12-31,A020,Call,Product Quality,High,18.2,19,4,81.4,Closed,No,No
+T00164,2025-01-17,A002,Email,Delivery Delay,Medium,23.2,65,4,100,Closed,No,No
+T00165,2025-04-23,A005,Email,Payment Failure,Medium,14.5,56,4,94.8,Closed,No,No
+T00166,2025-01-20,A003,Chat,Product Quality,Medium,5.5,40,2,84.1,Closed,Yes,No
+T00167,2025-03-15,A023,Call,Account Issue,Medium,0.6,54,4,78.9,Closed,No,No
+T00168,2025-11-19,A006,Call,Account Issue,Low,32.9,18,3,97.1,Closed,No,No
+T00169,2025-12-19,A017,Chat,Account Issue,Medium,23.3,53,3,89.2,Closed,No,No
+T00170,2025-06-26,A015,Call,Order Cancellation,Low,75.6,23,4,89.7,Closed,No,No
+T00171,2025-05-08,A006,Chat,Refund,Medium,15.8,48,4,80.5,Closed,No,No
+T00172,2025-03-30,A019,Call,Refund,High,5.6,23,4,77.1,Closed,No,Yes
+T00173,2025-10-27,A007,Call,Account Issue,Medium,44.4,17,5,92.9,Closed,No,No
+T00174,2025-09-08,A008,Chat,Refund,Low,32.8,23,3,88.0,Closed,No,No
+T00175,2025-03-04,A016,Call,Account Issue,Low,8.9,29,2,96.4,Closed,No,No
+T00176,2025-09-29,A006,Chat,Delivery Delay,Low,23.0,52,5,90.8,Closed,No,No
+T00177,2025-10-17,A005,Email,Product Quality,Low,28.3,41,4,96.0,Closed,No,No
+T00178,2025-04-19,A009,Email,Delivery Delay,Low,98.0,52,5,82.6,Closed,No,No
+T00179,2025-07-06,A005,Chat,Refund,Medium,0.6,10,3,92.6,Closed,No,No
+T00180,2025-03-19,A010,Chat,Delivery Delay,Low,15.2,32,5,92.2,Closed,No,Yes
+T00181,2025-07-01,A007,Call,Order Cancellation,Low,75.3,78,4,84.8,Closed,No,No
+T00182,2025-07-22,A025,Call,Refund,High,10.4,17,5,83.8,Closed,No,No
+T00183,2025-09-13,A013,Call,Order Cancellation,Critical,0.5,13,3,72.5,Closed,No,No
+T00184,2025-09-09,A016,Chat,Delivery Delay,Critical,3.8,37,4,91.6,Closed,No,No
+T00185,2025-11-13,A011,Email,Refund,Medium,38.5,30,2,94.8,Open,No,No
+T00186,2025-06-09,A003,Email,Delivery Delay,Low,32.0,47,4,86.3,Closed,No,No
+T00187,2025-06-07,A009,Email,Delivery Delay,Medium,19.8,24,2,71.8,Closed,No,No
+T00188,2025-08-23,A020,Email,Delivery Delay,Low,36.8,56,5,84.4,Closed,No,No
+T00189,2025-05-23,A016,Call,Payment Failure,Medium,16.6,22,4,99.3,Open,No,Yes
+T00190,2025-07-23,A002,Email,Product Quality,Medium,18.6,77,5,90.4,Closed,No,No
+T00191,2025-11-02,A019,Chat,Delivery Delay,Medium,16.6,46,5,77.9,Closed,No,No
+T00192,2025-12-17,A023,Email,Order Cancellation,Low,73.3,29,4,87.5,Closed,No,No
+T00193,2025-09-08,A019,Call,Order Cancellation,High,18.8,16,5,75.0,Closed,No,No
+T00194,2025-08-22,A024,Chat,Delivery Delay,Low,13.9,39,5,86.2,Closed,No,No
+T00195,2025-02-18,A023,Call,Payment Failure,High,2.9,46,1,70.9,Closed,No,Yes
+T00196,2025-01-11,A008,Email,Payment Failure,Low,58.5,8,4,85.2,Closed,No,No
+T00197,2025-01-22,A016,Chat,Product Quality,Medium,16.5,51,4,65.2,Closed,No,No
+T00198,2025-02-24,A018,Chat,Delivery Delay,High,2.2,33,5,97.8,Closed,No,No
+T00199,2025-12-05,A012,Chat,Refund,Medium,40.4,29,4,87.5,Closed,No,No
+T00200,2025-10-18,A020,Email,Payment Failure,Low,70.0,6,4,89.1,Closed,No,No
+T00201,2025-10-15,A017,Call,Refund,Low,23.2,62,5,80.9,Open,No,No
+T00202,2025-12-24,A010,Chat,Delivery Delay,Medium,39.9,50,4,100,Closed,No,No
+T00203,2025-05-20,A008,Call,Order Cancellation,Low,21.7,22,5,81.3,Closed,No,No
+T00204,2025-09-10,A024,Email,Product Quality,Medium,20.9,12,5,92.9,Closed,No,No
+T00205,2025-05-13,A003,Chat,Order Cancellation,Low,31.1,41,4,74.0,Closed,No,No
+T00206,2025-03-03,A010,Call,Delivery Delay,Low,78.1,45,4,89.8,Closed,No,No
+T00207,2025-03-30,A003,Email,Delivery Delay,Low,58.1,29,4,82.5,Closed,No,No
+T00208,2025-03-12,A005,Chat,Product Quality,Low,59.8,20,1,89.4,Closed,No,No
+T00209,2025-04-09,A013,Call,Account Issue,High,9.7,35,4,81.6,Open,No,Yes
+T00210,2025-03-30,A019,Call,Product Quality,High,8.9,5,4,88.0,Closed,No,Yes
+T00211,2025-01-07,A025,Email,Account Issue,Low,27.1,2,5,85.5,Closed,No,No
+T00212,2025-05-27,A019,Email,Account Issue,Low,55.2,18,5,96.9,Closed,No,No
+T00213,2025-02-23,A011,Chat,Account Issue,Low,53.3,58,5,93.6,Closed,No,No
+T00214,2025-12-09,A016,Email,Product Quality,Medium,11.4,45,4,85.8,Closed,No,No
+T00215,2025-07-06,A003,Call,Refund,Low,20.0,47,4,88.0,Closed,No,No
+T00216,2025-08-30,A023,Chat,Delivery Delay,Low,39.4,52,4,100,Closed,No,No
+T00217,2025-09-19,A004,Email,Payment Failure,Low,42.2,35,4,84.7,Closed,No,No
+T00218,2025-02-14,A023,Email,Product Quality,Low,32.4,29,1,99.8,Closed,Yes,No
+T00219,2025-10-31,A021,Email,Order Cancellation,Low,16.2,28,3,86.1,Closed,No,No
+T00220,2025-03-27,A014,Call,Delivery Delay,Medium,20.0,65,4,81.8,Closed,No,No
+T00221,2025-06-04,A011,Chat,Refund,High,1.7,13,4,85.1,Closed,No,No
+T00222,2025-01-29,A016,Email,Product Quality,Medium,18.4,64,4,79.8,Closed,No,No
+T00223,2025-09-06,A001,Chat,Account Issue,Low,64.3,20,5,72.3,Closed,No,No
+T00224,2025-06-12,A009,Chat,Refund,Medium,3.9,41,5,100,Closed,No,No
+T00225,2025-10-19,A003,Email,Refund,High,13.7,43,4,89.9,Closed,No,No
+T00226,2025-12-21,A003,Chat,Refund,High,17.8,47,2,95.5,Closed,No,No
+T00227,2025-08-12,A017,Chat,Refund,Low,65.5,66,2,92.7,Closed,Yes,No
+T00228,2025-09-06,A023,Call,Payment Failure,Low,41.6,36,5,73.5,Closed,No,No
+T00229,2025-05-31,A009,Email,Order Cancellation,Medium,35.0,32,5,95.3,Closed,No,No
+T00230,2025-11-05,A015,Email,Refund,Medium,7.7,39,4,91.6,Closed,No,No
+T00231,2025-02-25,A022,Call,Product Quality,Medium,40.5,26,5,85.8,Closed,No,No
+T00232,2025-11-22,A016,Email,Payment Failure,Medium,11.3,27,2,74.8,Closed,No,No
+T00233,2025-06-29,A009,Chat,Order Cancellation,Low,68.7,23,3,92.6,Closed,No,No
+T00234,2025-09-30,A019,Call,Account Issue,Low,19.4,37,4,94.6,Closed,No,No
+T00235,2025-12-20,A008,Call,Delivery Delay,Medium,6.3,36,5,89.3,Open,No,No
+T00236,2025-05-22,A009,Email,Product Quality,Medium,6.4,44,5,78.8,Closed,No,No
+T00237,2025-01-14,A002,Chat,Account Issue,Critical,1.1,6,5,79.7,Closed,No,No
+T00238,2025-10-18,A010,Email,Account Issue,High,10.2,11,4,81.6,Closed,No,No
+T00239,2025-09-11,A010,Call,Refund,Medium,16.6,46,3,84.8,Closed,No,No
+T00240,2025-01-11,A021,Email,Order Cancellation,High,20.8,8,2,77.2,Closed,No,No
+T00241,2025-03-22,A020,Call,Order Cancellation,Low,31.2,30,3,83.1,Closed,Yes,No
+T00242,2025-09-23,A011,Email,Account Issue,Medium,20.2,20,5,84.3,Closed,No,No
+T00243,2025-02-22,A019,Email,Delivery Delay,Low,83.0,45,5,77.9,Closed,No,No
+T00244,2025-07-22,A024,Email,Order Cancellation,Medium,0.5,27,5,72.2,Closed,No,No
+T00245,2025-07-29,A015,Email,Refund,High,18.2,18,1,89.1,Closed,No,No
+T00246,2025-07-13,A025,Call,Payment Failure,Medium,51.5,63,5,87.1,Closed,No,No
+T00247,2025-12-20,A019,Call,Account Issue,High,5.4,1,5,84.0,Closed,No,No
+T00248,2025-07-25,A010,Call,Account Issue,Medium,18.0,25,4,89.5,Closed,No,Yes
+T00249,2025-03-14,A016,Chat,Order Cancellation,Critical,4.9,6,5,86.7,Closed,No,No
+T00250,2025-08-05,A010,Chat,Order Cancellation,High,11.8,29,4,87.8,Closed,No,No
+T00251,2025-11-07,A012,Email,Product Quality,Low,5.2,70,4,77.2,Closed,No,No
+T00252,2025-07-29,A025,Call,Order Cancellation,Medium,12.5,42,4,78.6,Closed,Yes,No
+T00253,2025-04-22,A001,Call,Product Quality,Medium,20.6,37,4,96.7,Closed,No,No
+T00254,2025-02-15,A019,Call,Order Cancellation,Medium,14.9,46,4,87.3,Closed,No,No
+T00255,2025-12-31,A021,Chat,Payment Failure,Medium,30.7,48,4,86.4,Closed,No,No
+T00256,2025-11-06,A005,Email,Account Issue,Low,43.0,30,4,83.3,Closed,No,No
+T00257,2025-03-04,A012,Chat,Refund,Low,24.9,39,4,100,Closed,No,No
+T00258,2025-02-08,A006,Email,Account Issue,Medium,16.8,45,5,69.4,Closed,No,No
+T00259,2025-07-24,A013,Email,Account Issue,Low,74.5,11,5,82.9,Closed,No,No
+T00260,2025-03-09,A009,Chat,Delivery Delay,Low,23.4,31,4,93.6,Closed,No,No
+T00261,2025-12-03,A018,Call,Payment Failure,Low,35.5,72,4,98.5,Closed,No,No
+T00262,2025-03-02,A004,Chat,Payment Failure,Low,6.8,28,4,77.7,Closed,No,No
+T00263,2025-09-25,A008,Chat,Account Issue,Low,55.8,20,3,81.5,Closed,Yes,No
+T00264,2025-01-31,A025,Chat,Product Quality,Low,57.2,44,4,96.4,Closed,No,No
+T00265,2025-01-20,A014,Call,Account Issue,Medium,12.9,49,3,88.3,Closed,No,No
+T00266,2025-09-14,A012,Call,Account Issue,Low,34.3,15,3,85.2,Closed,No,No
+T00267,2025-09-09,A020,Call,Refund,Low,45.0,81,4,87.2,Closed,No,No
+T00268,2025-09-04,A014,Email,Product Quality,High,7.3,1,5,80.5,Closed,No,No
+T00269,2025-01-21,A012,Call,Delivery Delay,Low,56.7,32,4,82.3,Closed,No,No
+T00270,2025-11-19,A022,Call,Payment Failure,High,11.3,61,3,80.7,Closed,No,Yes
+T00271,2025-08-17,A007,Email,Order Cancellation,Medium,24.3,60,5,86.5,Closed,No,No
+T00272,2025-09-11,A016,Chat,Order Cancellation,Medium,18.9,43,4,85.1,Closed,No,No
+T00273,2025-07-26,A004,Call,Account Issue,Medium,20.0,35,5,84.5,Closed,No,No
+T00274,2025-03-02,A011,Email,Payment Failure,Medium,8.4,22,5,85.7,Closed,Yes,No
+T00275,2025-01-24,A013,Email,Product Quality,Medium,24.5,62,3,86.7,Closed,No,No
+T00276,2025-05-04,A019,Call,Product Quality,Medium,19.0,19,4,90.9,Closed,Yes,No
+T00277,2025-06-30,A005,Call,Product Quality,High,10.2,11,5,82.0,Closed,No,Yes
+T00278,2025-06-05,A016,Call,Refund,High,9.2,11,5,85.6,Closed,No,No
+T00279,2025-03-25,A007,Email,Refund,Low,64.1,52,5,99.7,Closed,No,No
+T00280,2025-06-14,A018,Email,Payment Failure,High,0.5,23,3,92.2,Closed,No,No
+T00281,2025-02-25,A017,Call,Payment Failure,Low,45.6,41,5,88.9,Closed,No,No
+T00282,2025-07-20,A005,Call,Payment Failure,Medium,17.3,70,5,79.6,Closed,Yes,No
+T00283,2025-01-20,A003,Email,Account Issue,Medium,19.9,57,4,78.1,Closed,No,No
+T00284,2025-05-07,A018,Chat,Payment Failure,Medium,11.6,44,4,85.3,Closed,No,No
+T00285,2025-03-21,A002,Email,Refund,Low,29.3,29,5,100,Closed,No,No
+T00286,2025-02-05,A003,Email,Refund,Medium,26.5,37,5,88.8,Open,No,No
+T00287,2025-04-11,A016,Email,Refund,Low,38.5,19,4,98.7,Closed,No,No
+T00288,2025-01-13,A016,Chat,Order Cancellation,Low,9.1,54,3,94.4,Closed,No,No
+T00289,2025-08-21,A010,Chat,Refund,High,11.0,22,3,94.0,Closed,No,No
+T00290,2025-04-08,A001,Chat,Product Quality,Medium,15.1,52,5,88.3,Closed,No,No
+T00291,2025-05-03,A020,Email,Payment Failure,Medium,27.3,25,4,76.8,Closed,No,No
+T00292,2025-02-04,A004,Email,Payment Failure,Medium,17.1,76,4,83.1,Closed,No,No
+T00293,2025-04-08,A005,Chat,Delivery Delay,Low,66.5,68,4,92.8,Closed,No,No
+T00294,2025-10-31,A010,Chat,Order Cancellation,Medium,12.0,31,4,95.6,Closed,No,No
+T00295,2025-06-17,A004,Email,Account Issue,Low,49.2,44,5,93.5,Closed,No,No
+T00296,2025-07-01,A024,Call,Refund,Medium,31.1,28,4,80.2,Closed,No,No
+T00297,2025-07-11,A019,Email,Delivery Delay,Medium,8.9,34,4,77.3,Closed,No,No
+T00298,2025-05-28,A003,Chat,Order Cancellation,High,10.5,34,5,93.8,Closed,No,Yes
+T00299,2025-11-13,A009,Email,Account Issue,Critical,3.8,25,5,95.7,Closed,No,Yes
+T00300,2025-04-06,A014,Email,Payment Failure,Medium,8.9,27,3,94.2,Closed,No,No
+T00301,2025-10-04,A002,Chat,Account Issue,Low,36.6,51,3,87.7,Closed,No,No
+T00302,2025-02-09,A010,Email,Product Quality,Medium,10.4,46,3,100,Closed,Yes,No
+T00303,2025-01-01,A010,Email,Product Quality,High,12.3,10,5,79.0,Closed,No,No
+T00304,2025-07-24,A013,Chat,Account Issue,Medium,9.9,12,4,81.5,Closed,No,No
+T00305,2025-02-03,A010,Email,Account Issue,Low,54.2,46,2,77.3,Closed,No,No
+T00306,2025-12-23,A008,Email,Account Issue,Low,57.1,42,3,79.7,Closed,Yes,No
+T00307,2025-08-16,A022,Email,Delivery Delay,Low,35.6,39,4,82.4,Closed,No,No
+T00308,2025-05-24,A024,Chat,Order Cancellation,Low,63.2,52,5,87.6,Closed,Yes,No
+T00309,2025-08-13,A009,Call,Payment Failure,Low,39.9,21,4,80.1,Closed,Yes,No
+T00310,2025-11-08,A015,Chat,Order Cancellation,High,0.5,9,4,78.2,Closed,No,No
+T00311,2025-04-15,A001,Email,Delivery Delay,Critical,2.3,36,3,85.0,Closed,No,Yes
+T00312,2025-02-08,A013,Email,Payment Failure,Medium,8.3,51,5,88.4,Closed,Yes,No
+T00313,2025-04-27,A024,Chat,Delivery Delay,Medium,32.5,7,3,83.2,Closed,Yes,No
+T00314,2025-09-19,A024,Email,Delivery Delay,Low,49.9,39,3,92.1,Closed,No,No
+T00315,2025-03-25,A020,Chat,Account Issue,High,3.6,35,3,95.3,Closed,No,Yes
+T00316,2025-02-22,A021,Email,Account Issue,Low,37.9,36,3,77.7,Closed,No,No
+T00317,2025-12-10,A011,Chat,Order Cancellation,Low,29.5,48,4,87.2,Closed,No,No
+T00318,2025-03-10,A016,Email,Product Quality,Low,11.3,15,4,80.9,Closed,No,No
+T00319,2025-09-02,A013,Call,Order Cancellation,Medium,19.5,70,4,87.6,Closed,No,No
+T00320,2025-10-19,A008,Chat,Product Quality,High,9.6,48,4,88.9,Closed,No,No
+T00321,2025-03-10,A005,Call,Order Cancellation,Medium,16.7,77,4,75.7,Closed,No,Yes
+T00322,2025-04-17,A010,Chat,Refund,High,7.9,52,4,93.3,Closed,No,Yes
+T00323,2025-02-22,A015,Chat,Order Cancellation,High,14.5,35,4,100,Closed,No,No
+T00324,2025-07-27,A019,Email,Refund,High,13.1,14,3,81.7,Closed,No,No
+T00325,2025-09-03,A023,Call,Product Quality,Medium,14.8,44,3,90.7,Closed,Yes,No
+T00326,2025-10-18,A012,Email,Account Issue,Medium,31.5,34,1,88.8,Closed,Yes,No
+T00327,2025-07-20,A003,Call,Account Issue,Low,29.5,72,4,90.4,Closed,No,No
+T00328,2025-08-19,A001,Call,Payment Failure,Low,37.8,37,3,77.3,Closed,No,No
+T00329,2025-02-05,A021,Call,Payment Failure,Medium,24.0,30,3,88.2,Closed,No,No
+T00330,2025-10-10,A017,Call,Delivery Delay,Medium,18.9,39,4,97.5,Closed,No,No
+T00331,2025-02-28,A007,Call,Account Issue,Medium,27.7,35,4,76.7,Closed,No,No
+T00332,2025-10-21,A016,Email,Refund,Medium,28.6,26,5,87.9,Closed,No,No
+T00333,2025-10-01,A014,Email,Account Issue,Low,28.6,24,2,74.3,Closed,Yes,No
+T00334,2025-09-26,A008,Email,Delivery Delay,Medium,22.3,42,2,86.3,Closed,No,No
+T00335,2025-01-05,A010,Email,Order Cancellation,Low,9.1,42,5,79.0,Closed,No,No
+T00336,2025-11-22,A014,Email,Delivery Delay,Medium,11.7,18,4,88.5,Closed,No,No
+T00337,2025-10-26,A001,Chat,Delivery Delay,Medium,23.4,9,4,93.8,Closed,No,No
+T00338,2025-06-27,A018,Email,Refund,Low,0.5,31,5,93.1,Open,No,No
+T00339,2025-09-10,A010,Chat,Refund,Low,51.2,35,5,82.3,Closed,No,No
+T00340,2025-06-15,A006,Email,Payment Failure,Low,35.2,46,5,70.3,Closed,No,No
+T00341,2025-03-28,A001,Call,Product Quality,Medium,28.4,30,3,96.7,Closed,No,No
+T00342,2025-03-21,A017,Chat,Account Issue,Critical,4.6,25,4,83.0,Closed,No,Yes
+T00343,2025-08-28,A010,Email,Account Issue,Low,44.4,51,4,72.1,Closed,No,No
+T00344,2025-12-02,A014,Chat,Delivery Delay,Low,57.5,54,5,91.2,Closed,No,No
+T00345,2025-04-05,A010,Chat,Product Quality,Low,34.0,53,4,82.2,Closed,No,No
+T00346,2025-01-21,A016,Email,Delivery Delay,High,9.5,1,3,100,Closed,No,Yes
+T00347,2025-01-21,A002,Chat,Account Issue,Critical,4.8,17,5,86.9,Closed,No,Yes
+T00348,2025-10-06,A023,Email,Account Issue,Critical,0.5,33,5,91.7,Closed,No,No
+T00349,2025-05-15,A021,Chat,Product Quality,Low,61.0,48,4,89.7,Closed,No,No
+T00350,2025-03-08,A012,Call,Order Cancellation,Critical,5.5,10,5,80.8,Closed,No,Yes
+T00351,2025-10-30,A021,Chat,Order Cancellation,Medium,13.0,61,5,88.6,Open,No,No
+T00352,2025-02-05,A023,Email,Order Cancellation,Low,68.1,83,2,73.5,Closed,No,No
+T00353,2025-03-06,A019,Email,Refund,Low,65.9,21,4,65.0,Closed,No,No
+T00354,2025-02-14,A001,Email,Payment Failure,Medium,1.7,45,4,85.8,Closed,No,No
+T00355,2025-11-15,A020,Email,Product Quality,Medium,8.9,69,3,95.3,Closed,No,No
+T00356,2025-10-24,A020,Email,Payment Failure,Low,45.7,46,4,83.1,Closed,No,No
+T00357,2025-04-24,A006,Chat,Payment Failure,High,4.2,1,2,93.8,Closed,No,Yes
+T00358,2025-10-25,A012,Chat,Product Quality,High,2.3,14,5,83.5,Closed,No,Yes
+T00359,2025-12-19,A001,Call,Product Quality,High,3.0,49,5,87.3,Closed,No,Yes
+T00360,2025-11-18,A021,Chat,Delivery Delay,Medium,10.4,34,4,83.3,Closed,No,No
+T00361,2025-12-28,A011,Call,Delivery Delay,Medium,36.4,44,5,74.5,Open,No,No
+T00362,2025-02-16,A013,Email,Delivery Delay,Medium,29.5,25,5,98.0,Closed,No,No
+T00363,2025-07-06,A017,Chat,Refund,Low,21.0,23,2,85.3,Closed,No,No
+T00364,2025-06-18,A015,Chat,Product Quality,Low,11.8,62,5,97.4,Closed,No,No
+T00365,2025-03-11,A001,Email,Payment Failure,Medium,18.8,28,5,92.4,Closed,No,No
+T00366,2025-03-08,A025,Call,Delivery Delay,Low,63.9,71,5,77.7,Closed,No,No
+T00367,2025-04-09,A020,Call,Account Issue,High,11.5,20,5,81.8,Closed,No,No
+T00368,2025-08-20,A004,Chat,Payment Failure,High,12.0,20,5,78.1,Closed,No,Yes
+T00369,2025-06-27,A002,Email,Payment Failure,Medium,22.1,50,4,100,Closed,No,No
+T00370,2025-12-04,A016,Email,Refund,Medium,24.0,35,4,97.9,Closed,No,No
+T00371,2025-03-23,A010,Chat,Order Cancellation,Low,45.3,72,4,88.8,Closed,No,No
+T00372,2025-08-10,A011,Call,Order Cancellation,Medium,27.3,52,5,72.8,Closed,No,No
+T00373,2025-05-10,A007,Email,Delivery Delay,Medium,11.6,34,5,79.4,Closed,No,No
+T00374,2025-09-23,A006,Chat,Refund,Medium,30.0,8,4,75.3,Closed,No,No
+T00375,2025-01-17,A020,Call,Delivery Delay,Low,36.2,25,4,80.4,Closed,No,No
+T00376,2025-10-14,A017,Call,Account Issue,High,14.7,29,4,87.9,Closed,No,No
+T00377,2025-08-20,A023,Call,Order Cancellation,Low,38.3,37,4,84.2,Closed,No,No
+T00378,2025-05-26,A001,Call,Order Cancellation,High,4.9,11,5,87.2,Closed,No,No
+T00379,2025-11-13,A018,Email,Order Cancellation,Medium,41.2,3,1,85.1,Closed,No,No
+T00380,2025-11-15,A018,Call,Account Issue,Low,18.9,46,2,79.1,Closed,No,No
+T00381,2025-10-06,A021,Chat,Order Cancellation,Medium,34.3,26,4,82.0,Closed,No,No
+T00382,2025-08-12,A003,Chat,Order Cancellation,High,15.0,8,1,97.8,Closed,No,Yes
+T00383,2025-11-04,A016,Chat,Account Issue,Medium,38.5,9,5,73.8,Closed,No,Yes
+T00384,2025-04-01,A015,Call,Product Quality,Medium,10.9,45,5,98.1,Closed,No,No
+T00385,2025-05-11,A020,Call,Refund,Low,49.1,30,4,86.6,Closed,No,No
+T00386,2025-09-15,A020,Chat,Payment Failure,Medium,29.1,61,2,88.7,Closed,No,No
+T00387,2025-07-11,A003,Email,Payment Failure,High,15.8,5,5,85.1,Closed,No,Yes
+T00388,2025-02-20,A008,Call,Delivery Delay,High,16.8,12,1,100,Closed,Yes,No
+T00389,2025-07-26,A017,Email,Order Cancellation,Low,0.5,48,3,91.5,Closed,No,No
+T00390,2025-01-27,A011,Chat,Product Quality,Medium,15.8,59,2,96.9,Closed,No,No
+T00391,2025-01-15,A018,Call,Account Issue,Medium,30.5,44,4,86.9,Closed,No,No
+T00392,2025-04-09,A011,Call,Payment Failure,Low,49.6,45,4,81.3,Closed,Yes,No
+T00393,2025-02-11,A025,Call,Order Cancellation,Medium,0.5,53,2,85.9,Closed,No,No
+T00394,2025-04-22,A018,Email,Refund,Low,72.0,33,4,100,Closed,No,No
+T00395,2025-12-03,A004,Chat,Account Issue,Medium,21.5,35,4,85.4,Closed,No,No
+T00396,2025-06-30,A020,Chat,Order Cancellation,High,14.3,1,3,83.1,Closed,No,No
+T00397,2025-02-28,A002,Call,Refund,High,15.0,36,4,77.9,Open,No,No
+T00398,2025-05-14,A003,Email,Account Issue,Low,61.8,47,5,81.5,Closed,Yes,No
+T00399,2025-10-12,A018,Chat,Product Quality,High,0.5,30,5,95.2,Closed,No,No
+T00400,2025-08-03,A009,Chat,Payment Failure,Low,26.3,10,4,90.5,Closed,No,No
+T00401,2025-07-31,A004,Chat,Delivery Delay,Medium,31.7,1,4,94.1,Closed,No,No
+T00402,2025-06-20,A006,Chat,Account Issue,Low,52.0,33,5,93.7,Closed,No,No
+T00403,2025-05-18,A014,Call,Product Quality,High,8.7,22,3,77.7,Open,No,No
+T00404,2025-07-26,A012,Email,Delivery Delay,Medium,35.7,23,5,84.0,Open,No,No
+T00405,2025-10-19,A011,Chat,Order Cancellation,Medium,25.4,47,5,85.5,Open,No,No
+T00406,2025-08-13,A003,Email,Product Quality,Low,53.9,32,4,83.2,Closed,No,No
+T00407,2025-08-29,A003,Call,Refund,Medium,2.6,65,4,62.5,Closed,No,No
+T00408,2025-04-30,A011,Chat,Order Cancellation,Medium,5.7,51,5,87.7,Closed,No,No
+T00409,2025-07-22,A001,Email,Order Cancellation,High,8.3,5,3,87.3,Closed,No,No
+T00410,2025-04-04,A003,Call,Product Quality,Low,35.6,50,4,88.1,Open,No,No
+T00411,2025-11-10,A003,Chat,Payment Failure,Medium,0.5,67,3,86.0,Closed,No,No
+T00412,2025-10-12,A021,Chat,Account Issue,Low,60.8,66,4,80.0,Closed,No,No
+T00413,2025-01-29,A008,Email,Refund,Low,50.0,1,2,83.7,Closed,No,No
+T00414,2025-11-23,A012,Call,Account Issue,Low,25.5,40,2,81.2,Closed,Yes,No
+T00415,2025-03-18,A002,Call,Delivery Delay,Medium,28.2,52,4,80.6,Closed,No,No
+T00416,2025-10-13,A018,Call,Account Issue,High,8.8,24,5,98.0,Closed,No,Yes
+T00417,2025-07-07,A025,Email,Order Cancellation,Low,26.8,49,5,94.2,Closed,No,No
+T00418,2025-12-11,A001,Call,Delivery Delay,High,20.3,15,3,78.1,Closed,No,No
+T00419,2025-02-01,A004,Email,Product Quality,Medium,20.1,6,5,76.1,Closed,No,Yes
+T00420,2025-04-19,A019,Email,Order Cancellation,Medium,37.2,53,1,85.9,Closed,No,No
+T00421,2025-11-29,A011,Chat,Refund,High,13.2,28,5,80.9,Closed,No,No
+T00422,2025-08-14,A006,Chat,Delivery Delay,Critical,2.1,17,4,89.6,Open,No,No
+T00423,2025-12-21,A004,Email,Product Quality,Low,46.5,46,4,75.1,Closed,No,No
+T00424,2025-09-21,A014,Chat,Refund,Medium,30.6,51,4,79.4,Closed,No,No
+T00425,2025-08-01,A012,Email,Payment Failure,Low,2.6,52,4,92.7,Closed,No,No
+T00426,2025-08-22,A022,Email,Product Quality,Low,13.3,50,4,84.6,Closed,No,No
+T00427,2025-04-26,A008,Email,Delivery Delay,Low,26.8,29,4,90.0,Closed,No,No
+T00428,2025-03-18,A014,Chat,Order Cancellation,Low,55.3,48,4,77.4,Closed,No,No
+T00429,2025-10-26,A011,Chat,Payment Failure,High,9.8,39,3,81.7,Closed,No,No
+T00430,2025-06-21,A023,Chat,Payment Failure,Low,66.4,40,5,94.8,Closed,No,No
+T00431,2025-03-01,A023,Call,Delivery Delay,Medium,0.5,27,4,81.9,Closed,No,No
+T00432,2025-03-30,A015,Call,Delivery Delay,High,18.0,26,4,91.0,Closed,No,No
+T00433,2025-10-21,A019,Call,Order Cancellation,Low,40.3,65,4,84.8,Closed,No,No
+T00434,2025-12-25,A007,Email,Order Cancellation,Low,24.3,41,4,77.3,Closed,No,No
+T00435,2025-05-26,A025,Chat,Account Issue,High,6.4,28,4,96.8,Closed,No,Yes
+T00436,2025-06-07,A015,Chat,Order Cancellation,High,14.3,39,5,86.6,Closed,No,Yes
+T00437,2025-03-26,A024,Chat,Payment Failure,High,7.1,45,3,80.8,Closed,No,No
+T00438,2025-08-09,A005,Email,Product Quality,Medium,23.0,8,4,78.8,Closed,No,No
+T00439,2025-05-13,A006,Call,Account Issue,Medium,26.1,38,3,83.6,Open,No,No
+T00440,2025-04-13,A025,Chat,Product Quality,Low,59.6,66,2,94.5,Closed,No,No
+T00441,2025-07-01,A008,Email,Product Quality,High,12.8,10,5,88.8,Closed,No,Yes
+T00442,2025-02-14,A008,Call,Order Cancellation,Critical,3.4,4,4,89.5,Closed,No,Yes
+T00443,2025-04-06,A018,Call,Delivery Delay,Critical,3.2,23,1,83.6,Closed,Yes,No
+T00444,2025-07-19,A006,Chat,Payment Failure,Low,25.0,48,4,88.1,Closed,No,No
+T00445,2025-01-25,A006,Email,Account Issue,Critical,2.4,24,4,97.3,Closed,No,Yes
+T00446,2025-08-18,A006,Chat,Account Issue,High,7.9,59,4,77.6,Closed,No,No
+T00447,2025-11-21,A006,Email,Product Quality,Medium,14.9,41,5,74.0,Closed,No,No
+T00448,2025-07-08,A017,Chat,Payment Failure,Medium,7.4,48,4,97.2,Closed,No,Yes
+T00449,2025-11-29,A014,Chat,Refund,Medium,22.7,32,5,97.0,Closed,No,No
+T00450,2025-11-21,A006,Call,Refund,Low,32.3,35,4,94.1,Closed,No,No
+T00451,2025-02-12,A023,Call,Order Cancellation,Medium,31.7,1,5,86.3,Closed,No,No
+T00452,2025-06-14,A015,Chat,Payment Failure,Low,32.5,45,5,92.8,Closed,No,No
+T00453,2025-09-20,A006,Call,Account Issue,Medium,4.3,54,5,100,Closed,No,No
+T00454,2025-05-08,A010,Email,Account Issue,High,18.1,29,4,76.9,Closed,No,No
+T00455,2025-01-14,A004,Chat,Payment Failure,Low,17.2,41,3,82.4,Closed,No,No
+T00456,2025-12-22,A006,Call,Delivery Delay,Low,74.4,52,5,86.6,Closed,No,No
+T00457,2025-02-27,A006,Email,Refund,Low,18.5,30,3,91.3,Closed,No,No
+T00458,2025-08-31,A025,Chat,Refund,High,4.8,11,5,96.5,Closed,No,No
+T00459,2025-07-23,A023,Call,Delivery Delay,High,6.4,27,4,82.3,Closed,No,No
+T00460,2025-08-03,A004,Email,Account Issue,Low,43.3,30,4,86.3,Closed,No,No
+T00461,2025-08-20,A007,Email,Payment Failure,High,4.0,33,5,89.4,Closed,No,No
+T00462,2025-11-02,A020,Email,Refund,High,17.3,15,5,94.7,Closed,No,Yes
+T00463,2025-11-07,A018,Email,Account Issue,Low,47.0,37,4,78.2,Closed,No,No
+T00464,2025-11-06,A019,Email,Delivery Delay,Medium,3.7,44,3,81.3,Closed,No,No
+T00465,2025-04-28,A012,Chat,Refund,Medium,9.7,24,5,98.9,Closed,No,No
+T00466,2025-09-11,A013,Chat,Product Quality,High,10.8,1,3,90.8,Closed,No,No
+T00467,2025-04-28,A002,Chat,Delivery Delay,Critical,3.4,18,1,90.2,Closed,Yes,Yes
+T00468,2025-03-01,A006,Email,Account Issue,Low,39.6,41,4,87.6,Closed,No,No
+T00469,2025-06-07,A024,Email,Order Cancellation,Low,47.4,77,5,93.7,Closed,No,No
+T00470,2025-09-15,A020,Call,Delivery Delay,Medium,20.0,8,5,91.3,Closed,No,No
+T00471,2025-09-07,A011,Call,Order Cancellation,Low,63.0,62,1,86.6,Closed,No,No
+T00472,2025-06-28,A006,Chat,Product Quality,Low,27.3,50,3,71.5,Closed,No,No
+T00473,2025-02-06,A022,Email,Delivery Delay,Medium,20.1,32,4,90.4,Closed,No,No
+T00474,2025-03-01,A019,Email,Delivery Delay,High,17.5,1,5,72.5,Closed,No,No
+T00475,2025-06-14,A004,Chat,Refund,Medium,18.0,68,4,84.3,Closed,Yes,No
+T00476,2025-04-09,A010,Chat,Account Issue,Low,51.1,75,4,100,Closed,No,No
+T00477,2025-01-24,A002,Call,Product Quality,Medium,9.8,51,2,89.6,Closed,No,No
+T00478,2025-03-31,A013,Call,Refund,High,17.4,60,1,84.1,Closed,Yes,No
+T00479,2025-07-20,A006,Email,Payment Failure,Low,17.2,28,4,81.3,Closed,No,No
+T00480,2025-07-29,A006,Call,Refund,Low,44.7,17,5,82.9,Closed,No,No
+T00481,2025-06-25,A009,Email,Account Issue,High,13.4,21,4,81.9,Closed,No,Yes
+T00482,2025-12-19,A011,Call,Account Issue,Medium,10.9,41,4,87.6,Closed,No,No
+T00483,2025-11-22,A006,Call,Payment Failure,Medium,17.6,61,3,89.4,Closed,No,No
+T00484,2025-08-15,A010,Email,Payment Failure,Low,52.7,40,4,69.4,Closed,No,No
+T00485,2025-07-11,A009,Chat,Delivery Delay,High,1.3,37,4,85.7,Closed,No,Yes
+T00486,2025-10-20,A017,Chat,Refund,Medium,25.1,60,3,82.6,Closed,Yes,No
+T00487,2025-05-17,A007,Call,Refund,Medium,25.9,1,3,74.6,Closed,No,No
+T00488,2025-04-16,A006,Email,Refund,Medium,19.0,49,3,88.0,Closed,No,No
+T00489,2025-06-20,A024,Call,Refund,High,13.6,48,4,99.3,Closed,No,Yes
+T00490,2025-07-13,A025,Chat,Product Quality,High,8.4,43,4,86.0,Closed,No,Yes
+T00491,2025-06-15,A004,Chat,Account Issue,Critical,3.1,10,5,86.9,Closed,No,No
+T00492,2025-02-15,A022,Call,Refund,High,7.6,16,4,90.6,Closed,No,Yes
+T00493,2025-04-14,A017,Call,Payment Failure,Medium,24.0,67,5,78.6,Closed,No,No
+T00494,2025-10-13,A020,Chat,Order Cancellation,Medium,16.2,36,4,96.8,Closed,No,No
+T00495,2025-05-31,A002,Email,Order Cancellation,High,10.7,1,4,77.6,Closed,No,Yes
+T00496,2025-04-08,A025,Chat,Product Quality,Medium,17.1,49,4,96.0,Closed,No,No
+T00497,2025-01-08,A016,Chat,Order Cancellation,Critical,1.6,4,5,78.7,Closed,No,Yes
+T00498,2025-08-07,A019,Call,Delivery Delay,Low,93.7,41,4,98.4,Closed,No,No
+T00499,2025-02-08,A014,Chat,Delivery Delay,Low,23.5,34,5,75.7,Closed,No,No
+T00500,2025-03-14,A003,Call,Payment Failure,Low,4.8,45,5,87.4,Closed,No,No
